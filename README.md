@@ -1,7 +1,4 @@
-# 🗄️ Complete Database Notes — From Zero to Senior Engineer
-
-> **Beginner-friendly. Interview-ready. Production-focused.**
-> Covers everything from "What is a database?" to distributed systems & FAANG-level questions.
+# Complete Database Notes 
 
 ---
 
@@ -26,7 +23,7 @@
 
 ---
 
-## 🟢 Level 1 — Foundations (0-2 Years)
+## 🟢 Level 1 — Foundations 
 
 ---
 
